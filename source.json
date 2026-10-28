@@ -1,0 +1,46 @@
+{
+  "name": "Linkpic",
+  "identifier": "com.linkpic.lc-source",
+  "subtitle": "内部解密 IPA",
+  "description": "LiveContainer 自建源（GitHub Releases）。仅供本人设备安装。",
+  "website": "https://github.com/HuChundong/lc-source",
+  "tintColor": "#4A90E2",
+  "apps": [
+    {
+      "name": "UU远程",
+      "bundleIdentifier": "com.netease.uuremote",
+      "developerName": "NetEase",
+      "subtitle": "网易 UU 远程",
+      "localizedDescription": "本地 FairPlay 解密包，供 LiveContainer 安装。",
+      "tintColor": "#00A0E9",
+      "versions": [
+        {
+          "version": "4.43.0",
+          "buildVersion": "195",
+          "date": "2026-10-25",
+          "localizedDescription": "FairPlay 解密 + arm64 thin",
+          "downloadURL": "https://github.com/HuChundong/lc-source/releases/download/v1.0.0/uu-remote.ipa",
+          "size": 43279127
+        }
+      ]
+    },
+    {
+      "name": "Anyview阅读",
+      "bundleIdentifier": "com.Anyview",
+      "developerName": "Anyview",
+      "subtitle": "Anyview 阅读",
+      "localizedDescription": "本地 FairPlay 解密包，供 LiveContainer 安装。",
+      "tintColor": "#7B61FF",
+      "versions": [
+        {
+          "version": "3.3.3",
+          "buildVersion": "8",
+          "date": "2026-10-25",
+          "localizedDescription": "FairPlay 解密",
+          "downloadURL": "https://github.com/HuChundong/lc-source/releases/download/v1.0.0/anyview.ipa",
+          "size": 2990662
+        }
+      ]
+    }
+  ]
+}
