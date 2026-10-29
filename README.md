@@ -1,4 +1,4 @@
-# Linkpic LiveContainer Source
+# carmake LiveContainer Source
 
 AltStore-compatible source for LiveContainer.
 

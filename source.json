@@ -1,7 +1,7 @@
 {
-  "name": "Linkpic",
-  "identifier": "com.linkpic.lc-source",
-  "subtitle": "内部解密 IPA",
+  "name": "carmake",
+  "identifier": "com.carmake.lc-source",
+  "subtitle": "carmake LiveContainer source",
   "description": "LiveContainer 自建源（GitHub Releases）。仅供本人设备安装。",
   "website": "https://github.com/HuChundong/lc-source",
   "tintColor": "#4A90E2",
@@ -22,7 +22,8 @@
           "downloadURL": "https://github.com/HuChundong/lc-source/releases/download/v1.0.0/uu-remote.ipa",
           "size": 43279127
         }
-      ]
+      ],
+      "iconURL": "https://raw.githubusercontent.com/HuChundong/lc-source/main/icons/uu-remote.png"
     },
     {
       "name": "Anyview阅读",
@@ -40,7 +41,8 @@
           "downloadURL": "https://github.com/HuChundong/lc-source/releases/download/v1.0.0/anyview.ipa",
           "size": 2990662
         }
-      ]
+      ],
+      "iconURL": "https://raw.githubusercontent.com/HuChundong/lc-source/main/icons/anyview.png"
     }
   ]
 }
