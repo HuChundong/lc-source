@@ -49,9 +49,17 @@
       "bundleIdentifier": "com.hghub.huangguo",
       "developerName": "Minireel",
       "subtitle": "HGhub",
-      "localizedDescription": "公开未签名社区 IPA，来自 GitHub Minireel/HGhub v1.2.0，供 LiveContainer 安装。",
+      "localizedDescription": "公开未签名社区 IPA，供 LiveContainer 安装。含官方 Minireel/HGhub 1.2.0，以及社区续作 zxsos/HGhub 1.2.19。",
       "tintColor": "#4A90E2",
       "versions": [
+        {
+          "version": "1.2.19",
+          "buildVersion": "1.2.19",
+          "date": "2026-11-11",
+          "localizedDescription": "社区续作 zxsos/HGhub iOS 未签名构建。修复播放接口、线路切换和连接失败重试。最低 iOS 15，arm64。",
+          "downloadURL": "https://github.com/HuChundong/lc-source/releases/download/v1.0.0/HGhub_1.2.19.ipa",
+          "size": 3521136
+        },
         {
           "version": "1.2.0",
           "buildVersion": "1.2.0",
@@ -62,6 +70,25 @@
         }
       ],
       "iconURL": "https://raw.githubusercontent.com/HuChundong/lc-source/main/icons/hghub.png"
+    },
+    {
+      "name": "HGViewer",
+      "bundleIdentifier": "app.hghub.personal",
+      "developerName": "xueyj96",
+      "subtitle": "HGViewer-iOS",
+      "localizedDescription": "公开未签名社区 IPA，来自 GitHub xueyj96/HGViewer-iOS 1.1.106，使用 iOS 原生播放器，供 LiveContainer 安装。",
+      "tintColor": "#4A90E2",
+      "versions": [
+        {
+          "version": "1.1.0",
+          "buildVersion": "1.1.106",
+          "date": "2026-11-11",
+          "localizedDescription": "社区构建 xueyj96/HGViewer-iOS ios-1.1.106 未签名 IPA。营销版本 1.1.0，构建号 1.1.106。最低 iOS 17.1，arm64。",
+          "downloadURL": "https://github.com/HuChundong/lc-source/releases/download/v1.0.0/HGViewer_1.1.106.ipa",
+          "size": 3413786
+        }
+      ],
+      "iconURL": "https://raw.githubusercontent.com/HuChundong/lc-source/main/icons/hgviewer.png"
     },
     {
       "name": "Tailscale",
